@@ -1,2 +1,2 @@
 const logo = new Image();
-logo.src = 'images/logiccloudai.png'; // <-- keep the relative path correct
+logo.src = 'assets/images/logiccloudai.png'; // if you rename it to png
